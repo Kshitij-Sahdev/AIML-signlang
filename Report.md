@@ -45,4 +45,6 @@ learns from labeled hand sign images and predicts what sign the hand is shwoing
 A simple CNN can recognize hand signs fast and accurately using grayscale images.  
 This shows how AI can understand human gestures and make tech more natural to use.
 
-**Keywords:** AI, CNN, Hand Signs, Image Recognition, Computer Vision
+---
+
+# **Keywords:** AI, CNN, Hand Signs, Image Recognition, Computer Vision
