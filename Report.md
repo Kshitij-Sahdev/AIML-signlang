@@ -47,4 +47,4 @@ learns from labeled hand sign images and predicts what sign the hand is shwoing
 
 ---
 
-# **Keywords:** AI, CNN, Hand Signs, Image Recognition, Computer Vision
+## **Keywords:** AI, CNN, Hand Signs, Image Recognition, Computer Vision
